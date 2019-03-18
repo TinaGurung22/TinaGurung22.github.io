@@ -1,6 +1,5 @@
-h1 {
+hi {
   font-size: 8em;
   font-family: cursive;
-  color: rgba(255, 0, 0, 0.5);
-  text-align: center;
+  colour:#rgba(255, 0, 0, 0.5);
 }
